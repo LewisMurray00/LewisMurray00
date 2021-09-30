@@ -1,16 +1,8 @@
 <h3 align="center">Hi there 👋, I'm Lewis </h3>
 <br></br>
+
 My name is Lewis Murray and i am a software developer
 based in the UK 🇬🇧.
-### Languages and Tech:
-
-<div align="center">
-  ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-  ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-  ![image](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-  ![image](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
-</div>
 
 ### My School of Code Journey 📁
 Back in March 2021, i enrolled in the School Of Code
