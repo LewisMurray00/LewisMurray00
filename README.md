@@ -1,9 +1,6 @@
 <h3 align="center">Hi there 👋, I'm Lewis </h3>
 <br></br>
 
-My name is Lewis Murray and i am a software developer
-based in the UK 🇬🇧.
-
 ### My School of Code Journey 📁
 Back in March 2021, i enrolled in the School Of Code
 for their first part-time bootcamp. On this course we
